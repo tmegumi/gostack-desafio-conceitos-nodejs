@@ -10,7 +10,7 @@ Esse repositório é dedicado às aulas e desafios realizados durante o bootcamp
 * __Desafio 01:__ Entrega do cronograma de estudos
 * [__[Atual] Desafio 02:__ ](https://github.com/tmegumi/desafio-conceitos-nodejs) Back-end para armazenar repositórios
 * [__Desafio 03:__](https://github.com/tmegumi/gostack-desafio-conceitos-reactjs) Front-end web para armazenar repositórios
-* 
+  
 # Desafio 02: Conceitos do Node.js
 
 Nesse desafio, será criada uma aplicação no __Node.js__ para treinar o que foi aprendido no módulo de Conceitos do Node.js!
